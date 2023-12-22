@@ -1,4 +1,4 @@
-# Mobile app testing documentation📲Charles Proxy practice🏺![Uploading NoFilterGauaharKhanGIF.gif…]()
+# Mobile app testing documentation📲Charles Proxy practice🏺
 
 <ul>
 <li>  <a href="https://docs.google.com/spreadsheets/d/1_R9Wj-D9XPCH1WsmGh7TndZLA0_2koh5/edit?usp=sharing&ouid=118291960799675270050&rtpof=true&sd=true">Testplan</a> which reflects what and how to test (functions, types of testing, tools), main stages of work, risks.</li> 
